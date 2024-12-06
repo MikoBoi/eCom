@@ -1,0 +1,7 @@
+{
+  "_default": {
+    "1": { "name": "Contact Form", "user_email": "email", "user_phone": "phone" },
+    "2": { "name": "Order Form", "user_email": "email", "order_date": "date" },
+    "3": { "name": "Comment Form", "user_email": "email", "comment_text": "text" }
+  }
+}
